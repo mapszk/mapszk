@@ -1,5 +1,5 @@
 ### Hi👋
-🏠 I'm Front-end developer, currently in Santa Fe, Argentina. 
+🏠 I'm a front-end developer, currently in Santa Fe, Argentina. 
 
 💻 My most used languages are Javascript and Typescript. 
 
