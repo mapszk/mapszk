@@ -1,11 +1,6 @@
-### Hi👋
-🏠 I'm a front-end developer, currently in Santa Fe, Argentina. 
+### 👋
 
-💻 My most used languages are Javascript and Typescript. 
-
-📏 I like to create nice-looking websites using my design experience. 
-
-❤️ Love cinema and videogames.
+Front-end developer, currently in Santa Fe, Argentina. 
 
 #### Contact me 📫
 Website: [pzk.com.ar](https://pzk.com.ar) \
